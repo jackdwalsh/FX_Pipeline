@@ -18,4 +18,3 @@ print(data)
 for key,value in data['Realtime Currency Exchange Rate'].items():
     print(key,value)
     
-#L1PGZ06KNN5L1GC5
